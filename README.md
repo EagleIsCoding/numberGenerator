@@ -10,10 +10,3 @@ This project is a simple number generator application. It allows you to generate
 
 ## Screenshot
 ![Project Screenshot](./images/screenshot.png)
-
-## Installation
-To install and run this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/EagleIsCoding/numberGenerator.git
